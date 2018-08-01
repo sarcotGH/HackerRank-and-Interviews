@@ -5,7 +5,7 @@ import java.util.StringTokenizer;
 
 public class CreateMinimalBST {
 
-	// create an inner class to create the binary 's data structure
+	// create an inner class to create the binary Tree's data structure
 
 	private Node root;
 
