@@ -29,9 +29,7 @@ public class GradingStudents {
 	private static final Scanner scan = new Scanner(System.in);
 
 	public static void main(String[] args) throws IOException {
-		// BufferedWriter bw = new BufferedWriter(new
-		// FileWriter(System.getenv("OUTPUT_PATH")));
-
+		
 		int n = Integer.parseInt(scan.nextLine().trim());
 
 		int[] grades = new int[n];
