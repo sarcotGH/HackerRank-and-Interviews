@@ -64,6 +64,7 @@ public class CreateMinimalBST {
 			if (right != null)
 				right.printInOrder();
 		}
+
 		/*
 		 * PreOrder printing of Binary Tree
 		 * 
@@ -125,14 +126,4 @@ public class CreateMinimalBST {
 		Node seventh = new Node(7);
 
 	}
-
-	/*
-	 * private static void buildBinary(int[] theArray, int start, int end) { // TODO
-	 * Auto-generated method stub // first get the mid of the array to separate the
-	 * left and the right if (end < start) {
-	 * 
-	 * }
-	 * 
-	 * }
-	 */
 }
